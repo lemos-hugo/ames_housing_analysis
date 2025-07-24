@@ -27,12 +27,6 @@ ames-housing-analysis/
 ├── data/
 │   ├── Ames_HousePrice.csv         # Main dataset
 │   └── Ames Real Estate Data.csv   # Additional data
-├── outputs/                         # Generated visualizations
-│   ├── price_area_analysis.png
-│   ├── neighborhood_comparison.png
-│   ├── quality_impact.png
-│   ├── time_trends.png
-│   └── feature_importance.png
 ├── requirements.txt                 # Dependencies
 ├── README.md                       # Documentation
 └── .gitignore                      # Git ignore rules
