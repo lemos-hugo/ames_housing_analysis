@@ -35,7 +35,6 @@ ames-housing-analysis/
 │   └── feature_importance.png
 ├── requirements.txt                 # Dependencies
 ├── README.md                       # Documentation
-├── LICENSE                         # MIT License
 └── .gitignore                      # Git ignore rules
 ```
 
